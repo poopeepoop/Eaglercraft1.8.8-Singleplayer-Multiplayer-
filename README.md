@@ -7,9 +7,9 @@ Eaglercraft 1.8.8 javascript runtime. Multiplayer, singleplayer, and LAN worlds 
 Contains pretty much everything actual minecraft 1.8.8 has
 
 # How to launch game in browser:
-1. Download the zip file.
+1. Download the zip file (click that green "code" button in the top right corner and click download zip).
 
-2. Open the zip in your files.
+2. Right click the zip in your files and click extract all.
 
 3. Find the eaglercraft1.8.8.html file.
 
