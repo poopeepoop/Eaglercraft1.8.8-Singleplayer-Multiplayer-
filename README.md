@@ -1,5 +1,7 @@
 # Eaglercraft1.8.8-Singleplayer-Multiplayer-
 
+(This file detects new updates from the creator and will ask you to download an updated version if it exists, so I don't have to keep changing the file to the latest version)
+
 Eaglercraft 1.8.8 javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. 
 
 (I shamelessly ripped this from the eaglercraft 1.5.2 github desc)
